@@ -1,0 +1,8 @@
+{
+  "appId": "com.asim.slipperrush",
+  "appName": "Slipper Rush",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#2a8cf0"
+  }
+}
